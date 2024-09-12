@@ -61,7 +61,7 @@ Built-in functions:
 - `reduce()`: Reduce array to single value
 - `pivot()`: Create pivot table
 
-### Clever Syntax Features
+### Syntax Features
 
 1. Pipe operator `|>` for chaining operations
 2. Spread operator `...` for expanding ranges
@@ -69,8 +69,7 @@ Built-in functions:
 4. Pattern matching for complex conditionals
 5. Partial application of functions using `_` placeholder
 
-## Advanced Example
-
+## Example of an Enterprise Report
 Here's an advanced example demonstrating the power and flexibility of ExcelFlow:
 
 ```
