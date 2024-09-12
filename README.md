@@ -72,7 +72,7 @@ Built-in functions:
 ## Example of an Enterprise Report
 Here's an advanced example demonstrating the power and flexibility of ExcelFlow:
 
-```
+```javascript
 # Load the Excel file
 load "sales_data.xlsx"
 
