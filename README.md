@@ -1,4 +1,4 @@
-# ExcelFlow: A Language for Excel File Transformation
+# ExelFlow: A Language for Excel File Transformation
 [![CodeQL Advanced](https://github.com/JW-Limited/ExelFlow/actions/workflows/codeql.yml/badge.svg)](https://github.com/JW-Limited/ExelFlow/actions/workflows/codeql.yml)
 
 ExcelFlow is a domain-specific language designed for filter editing, transforming, and modulating Excel files processed with the xlsx.full.min.js library, ultimately producing CSV exports. This language emphasizes readability, flexibility, and power through a unique syntax.
